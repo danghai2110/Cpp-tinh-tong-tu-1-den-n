@@ -1,0 +1,1 @@
+# Cpp tinh tong tu 1 den n
